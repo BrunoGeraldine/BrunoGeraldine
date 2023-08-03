@@ -5,7 +5,7 @@
 
 # **Bruno Geraldine**
 
-**Engenheiro de Soluções para Data**
+**Engenheiro de Soluções para Dados.**
 
 Estudo ciência de dados e aprendizado de máquina desde 2020, quando, após uma viagem fora do Brasil trabalhando como engenheiro mecânico, pude constatar como ainda somos juniores nessa jornada de dados, analytics, insights e big data. Na faculdade conheci o processo de automação industrial e pude lembrar como é divertido trabalhar com programação e ver o resultado de algumas linhas digitadas em um programa se transformando em algo real e prático.
 
