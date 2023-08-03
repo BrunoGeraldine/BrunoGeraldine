@@ -1,4 +1,4 @@
-# **O principal objetivo deste portfólio de projetos pessoais de análise, ciência e engenharia de dados é demonstrar minhas habilidades na resolução de desafios de negócios por meio dos meus conhecimentos e ferramentas de ingestçao e armazenamento, modelagem e manipulação alpem de visualização e implementação de machine learning para o uso de dados como solução de problemas.**
+## **O principal objetivo deste portfólio de projetos pessoais de análise, ciência e engenharia de dados é demonstrar minhas habilidades na resolução de desafios de negócios por meio dos meus conhecimentos e ferramentas de ingestçao e armazenamento, modelagem e manipulação alpem de visualização e implementação de machine learning para o uso de dados como solução de problemas.**
 
 ![image](https://user-images.githubusercontent.com/87772120/131883339-172815b4-b265-47d8-a590-2c0a221ba916.png)
 
