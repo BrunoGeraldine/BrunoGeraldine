@@ -1,17 +1,17 @@
-# **The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.**
+# **O principal objetivo deste portfólio de projetos pessoais de análise, ciência e engenharia de dados é demonstrar minhas habilidades na resolução de desafios de negócios por meio dos meus conhecimentos e ferramentas de ingestçao e armazenamento, modelagem e manipulação alpem de visualização e implementação de machine learning para o uso de dados como solução de problemas.**
 
 ![image](https://user-images.githubusercontent.com/87772120/131883339-172815b4-b265-47d8-a590-2c0a221ba916.png)
 
 
 # **Bruno Geraldine**
 
-**Data Scientist**
+**Engenheiro de Soluções para Data**
 
-I have been studying data science and machine learning since 2020, when, after a journey outside Brazil working as a mechanical engineer, I could see how we are still juniors in this journey of data, analytics, insights and big data. In college I got to know the industrial automation process and was able to remember how fun it is to work with programming and see the result of a few lines typed in a program being transformed into something real and practical.
+Estudo ciência de dados e aprendizado de máquina desde 2020, quando, após uma viagem fora do Brasil trabalhando como engenheiro mecânico, pude constatar como ainda somos juniores nessa jornada de dados, analytics, insights e big data. Na faculdade conheci o processo de automação industrial e pude lembrar como é divertido trabalhar com programação e ver o resultado de algumas linhas digitadas em um programa se transformando em algo real e prático.
 
-I have improved myself in all stages of developing a business solution using Data Science concepts and tools, from understanding the business to publishing the model in production using Clouds.
+Me aprimorei em todas as etapas do desenvolvimento de uma solução de negócio utilizando conceitos e ferramentas de Data Science, desde o entendimento do negócio até a publicação do modelo em produção utilizando Clouds.
 
-I'm developing some solutions to important business problems like data insights and sales forecasting and still building myself as a data scientist.
+Estou desenvolvendo algumas soluções para importantes problemas de negócios, como insights de dados e previsão de vendas, e ainda me desenvolvendo como cientista de dados.
 
 
 🦾 **_Bruno Geraldine_..**
