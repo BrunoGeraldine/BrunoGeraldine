@@ -3,7 +3,7 @@
 **Engenheiro de Soluções para Dados.**
 
  <p align="center">
-  <img width="800" height="500" src="https://github.com/user-attachments/assets/e994e473-10a0-47e4-b14a-4debf9835164"
+  <img width="1000" height="300" src="https://github.com/user-attachments/assets/e994e473-10a0-47e4-b14a-4debf9835164"
        </p> 
 
  <p align="left">
