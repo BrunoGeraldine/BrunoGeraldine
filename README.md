@@ -3,25 +3,27 @@
 **Engenheiro de Soluções para Dados.**
 
  <p align="center">
-  <img width="800" height="500" src="https://user-images.githubusercontent.com/87772120/131883339-172815b4-b265-47d8-a590-2c0a221ba916.png"
-       </p>
+  <img width="800" height="500" src="https://github.com/user-attachments/assets/e994e473-10a0-47e4-b14a-4debf9835164"
+       </p> 
+
  <p align="left">
 
-### **O principal objetivo deste portfólio de projetos pessoais de análise, ciência e engenharia de dados é demonstrar minhas habilidades na resolução de desafios de negócios por meio dos meus conhecimentos e ferramentas de ingestçao e armazenamento, modelagem e manipulação alpem de visualização e implementação de machine learning para o uso de dados como solução de problemas.**
+### **O principal objetivo deste portfólio de projetos pessoais de desenvolvimento profissional voltadas para soluçoes de negocios utilizando dados é demonstrar minhas habilidades no uso de ferramentas de tecnologia para ingestão e armazenamento, modelagem e tratamento de dados e por fim visualização e implementação de modelos estatisticos para o uso de dados como solução de problemas de negocios.**
 
-Estudo ciência de dados e aprendizado de máquina desde 2020, quando, após uma viagem fora do Brasil trabalhando como engenheiro mecânico, pude constatar como ainda somos juniores nessa jornada de dados, analytics, insights e big data. Na faculdade conheci o processo de automação industrial e pude lembrar como é divertido trabalhar com programação e ver o resultado de algumas linhas digitadas em um programa se transformando em algo real e prático.
+Minha entrada no mundo de dados é iniciada em 2020, quando, após uma experiencia profissional em Portugal, atuando como engenheiro mecânico, pude constatar como é imprescindivel para qualquer negocio que espera sobreviver e coexistir com o futuro, a implementação rápida e imediata de solução de dados a uma uma excelente e saudavel existencia e competitividade no mundo de negocios. Aproveitando uma paixão iniciada na universidade pela técnologia e o uso de linguagens de programação como Python e SQL, pude relembrar como é divertido trabalhar e ver o resultado de algumas linhas digitadas em um programa/solução se transformando em algo real e prático.
 
-Me aprimorei em todas as etapas do desenvolvimento de uma solução de negócio utilizando conceitos e ferramentas de Data Science, desde o entendimento do negócio até a publicação do modelo em produção utilizando Clouds.
+Venho me aprimorando sempre mais e mais em todas as etapas do desenvolvimento de uma solução de negócio utilizando conceitos e ferramentas de analise de dados, desde o entendimento do probelma de negócio até a publicação do modelo em produção utilizando as diversas ferramentas disponiveis e tambem tecologias em Cloud-computing.
 
-Estou desenvolvendo algumas soluções para importantes problemas de negócios, como insights de dados e previsão de vendas, e ainda me desenvolvendo como cientista de dados.
+Espero que se unam comigo nesse meu portifolio pessoal e sintam-se avontade para compartilhar ideias, melhorias e novas soluções.
+
+Divirtam-se
 
 
 🦾 **_Bruno Geraldine_..**
 
 - 🔰 I'm Mechanical Engineer;
-- 💻 I’m currently learning Data Science;
+- 💻 I’m currently learning and living on this blue spinning sphere called earth;
 - 🛵 Moto travel enthusiast.
-- 🌐 I live in the world!
 
 
-image by:(https://www.jornalgrandebahia.com.br/2018/02/redes-neurais-vao-adivinhar-o-que-voce-falara-em-uma-conversa-ou-texto/)
+image by:(https://www.msrcosmos.com/blog/how-cloud-computing-is-transforming-data-management-in-healthcare//)
