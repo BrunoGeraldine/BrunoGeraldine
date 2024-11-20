@@ -3,21 +3,29 @@
 **Engenheiro de Soluções para Dados.**
 
  <p align="center">
-  <img width="1000" height="300" src="https://github.com/user-attachments/assets/e994e473-10a0-47e4-b14a-4debf9835164"
+  <img width="950" height="300" src="https://github.com/user-attachments/assets/e994e473-10a0-47e4-b14a-4debf9835164"
        </p> 
 
  <p align="left">
 
-### **O principal objetivo deste portfólio de projetos pessoais de desenvolvimento profissional voltadas para soluçoes de negocios utilizando dados é demonstrar minhas habilidades no uso de ferramentas de tecnologia para ingestão e armazenamento, modelagem e tratamento de dados e por fim visualização e implementação de modelos estatisticos para o uso de dados como solução de problemas de negocios.**
+### **Welcome to my professional project portfolio!
 
-Minha entrada no mundo de dados é iniciada em 2020, quando, após uma experiencia profissional em Portugal, atuando como engenheiro mecânico, pude constatar como é imprescindivel para qualquer negocio que espera sobreviver e coexistir com o futuro, a implementação rápida e imediata de solução de dados a uma uma excelente e saudavel existencia e competitividade no mundo de negocios. Aproveitando uma paixão iniciada na universidade pela técnologia e o uso de linguagens de programação como Python e SQL, pude relembrar como é divertido trabalhar e ver o resultado de algumas linhas digitadas em um programa/solução se transformando em algo real e prático.
+This space has been created to showcase my skills and experience in developing data-driven business solutions. My focus is on exploring the entire data lifecycle, including:
 
-Venho me aprimorando sempre mais e mais em todas as etapas do desenvolvimento de uma solução de negócio utilizando conceitos e ferramentas de analise de dados, desde o entendimento do probelma de negócio até a publicação do modelo em produção utilizando as diversas ferramentas disponiveis e tambem tecologias em Cloud-computing.
+* Data ingestion and storage: Leveraging modern tools to efficiently capture and organise data.
+* Data modelling and processing: Applying cleaning and transformation techniques to prepare data for analysis.
+* Visualisation and statistical analysis: Designing intuitive dashboards and advanced statistical models to support strategic decision-making and address real business challenges.
+My goal is to demonstrate how data can be transformed into valuable insights to drive business outcomes.**
 
-Espero que se unam comigo nesse meu portifolio pessoal e sintam-se avontade para compartilhar ideias, melhorias e novas soluções.
+My journey into the world of data began in 2020, following a professional experience in Portugal as a mechanical engineer. It was during this time that I realised how essential it is for any business aiming to thrive in the future to swiftly and effectively implement data-driven solutions. Digital transformation is not merely a trend but a necessity to ensure a healthy and competitive presence in today’s market.
 
-Divirtam-se
+During university, I developed a passion for technology and programming, delving into languages such as Python and SQL. I rediscovered how rewarding it is to create something practical and functional from just a few lines of code — blending logic and creativity to turn ideas into reality.
 
+Since then, I have been continually enhancing my skills across all stages of developing data-driven solutions. This encompasses everything from gaining a deep understanding of business problems to deploying models in production, using a variety of analytical tools and cloud computing technologies.
+
+I invite you to explore this portfolio, learn more about my work, and collaborate with me. Feel free to share ideas, suggestions, or new solutions.
+
+Enjoy!
 
 🦾 **_Bruno Geraldine_..**
 
