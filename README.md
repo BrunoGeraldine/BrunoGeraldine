@@ -18,7 +18,7 @@ My goal is to demonstrate how data can be transformed into valuable insights to 
 
 My journey into the world of data began in 2020, following a professional experience in Portugal as a mechanical engineer. It was during this time that I realised how essential it is for any business aiming to thrive in the future to swiftly and effectively implement data-driven solutions. Digital transformation is not merely a trend but a necessity to ensure a healthy and competitive presence in today’s market.
 
-During university, I developed a passion for technology and programming, delving into languages such as Python and SQL. I rediscovered how rewarding it is to create something practical and functional from just a few lines of code — blending logic and creativity to turn ideas into reality.
+During university, I developed a passion for technology and programming, delving into languages such as Python and SQL. I rediscovered how rewarding it is to create something practical and functional from just a few lines of code—blending logic and creativity to turn ideas into reality.
 
 Since then, I have been continually enhancing my skills across all stages of developing data-driven solutions. This encompasses everything from gaining a deep understanding of business problems to deploying models in production, using a variety of analytical tools and cloud computing technologies.
 
