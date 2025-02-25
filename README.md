@@ -11,9 +11,12 @@
 ### Welcome to my professional project portfolio!
 
 This space has been created to showcase my skills and experience in developing data-driven business solutions. My focus is on exploring the entire data lifecycle, including:
-* Data ingestion and storage: Leveraging modern tools to efficiently capture and organise data.
-* Data modelling and processing: Applying cleaning and transformation techniques to prepare data for analysis.
-* Visualisation and statistical analysis: Designing intuitive dashboards and advanced statistical models to support strategic decision-making and address real business challenges.
+* Cloud Computing: AWS and Google Cloud (Data Architecture), Azure, Snowflake, Docker;
+* LLM Integration: Utilizing AWS Bedrock for Large Language Model deployment and optimization;
+* Data Engineering: ETL/ELT Pipelines, Data Modeling, Feature Engineering, ingestion and storage;
+* Data modelling and processing: Applying cleaning and transformation techniques to prepare data for analysis;
+* Visualisation and statistical analysis: Designing intuitive dashboards and advanced statistical models to support strategic decision-making and address real business challenges;
+
 My goal is to demonstrate how data can be transformed into valuable insights to drive business outcomes.
 
 My journey into the world of data began in 2020, following a professional experience in Portugal as a mechanical engineer. It was during this time that I realised how essential it is for any business aiming to thrive in the future to swiftly and effectively implement data-driven solutions. Digital transformation is not merely a trend but a necessity to ensure a healthy and competitive presence in today’s market.
